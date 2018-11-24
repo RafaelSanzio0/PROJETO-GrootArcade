@@ -2,6 +2,7 @@
 Projeto da faculdade, jogo feito em Python utilizando a plataforma PyGame.
 
 OBJETIVO:
+
 Aguentar o máximo de tempo possivel desviando dos meteoros cinzas.
 
 MENU:
