@@ -1,4 +1,4 @@
-# PROJETO-JogoDoGroot
+# PROJETO-GrootArcade
 Projeto da faculdade, jogo feito em Python utilizando a plataforma PyGame.
 
 OBJETIVO:
